@@ -81,12 +81,12 @@ SDE | GenAI & ML Engineering · Python · LLMs · Real-Time Systems
 
 ---
 
-<h1 align="center"> Languages & Tools ⚒️</h1>
+<h1 align="center"> Languages & Tools </h1>
 
 <div align="center">
 
 <h3>Programming</h3>
-<img src="https://skillicons.dev/icons?i=python,sql,html,css" /><br><br>
+<img src="https://skillicons.dev/icons?i=python,html,css" /><br><br>
 
 <h3>Backend & APIs</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,sqlite" /><br><br>
