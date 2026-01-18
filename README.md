@@ -1,32 +1,68 @@
 <h1 align="center">
-  <<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=000000&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi,+I'm+Nishant+Rajaram" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&color=DC143C&background=00000000&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Hi,+I'm+Nishant+Rajaram" />
 </h1>
 
 <h3 align="center">
 SDE | GenAI & ML Engineering · Python · LLMs · Real-Time Systems
 </h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=Nishant082&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
+## About me
+##  What I work on
+- **GenAI & LLM applications** (OpenAI, Gemini, RAG, Ollama)
+- **Backend systems** with FastAPI, Flask, PostgreSQL
+- **ML & CV pipelines** with OpenCV, TensorFlow, Keras
+- **Real-time systems** (low latency, Unity ↔ Python, UDP/WebSockets)
 
-###  About Me
-Hello! I'm a **GenAI Engineer** with experience building **production-grade AI systems and LLM applications**.  
-I work primarily with **Python**, **FastAPI/Flask**, and **LLM APIs** like **OpenAI** and **Gemini**.
+---
 
-My work spans:
-- AI-powered **HR and academic vetting platforms**
-- **GitHub-based technical profiling systems**
-- **Real-time computer vision** and low-latency backend pipelines
-- **RAG-based multi-modal assistants** for text, image, and document understanding
+##  Experience
 
-I enjoy building systems that **reduce manual effort**, scale cleanly, and actually survive contact with real users.
+### **Xarpie Labs** · SDE — GenAI & ML Engineering  
+*July 2025 – Present*
+- Built an AI-powered HR profiling system processing **36+ candidate signals** using GPT-4, Flask, and SQLite
+- Integrated GitHub REST APIs to analyze **100+ repositories per candidate** for code quality, CI/CD signals, and language distribution
+- Developed an academic vetting platform with **role-based access**, OTP & OAuth auth, document verification, and real-time dashboards
 
+### **SuperHuge Studios** · Project Intern — Developer  
+*Nov 2024 – May 2025*
+- Built a **real-time IR laser tracking system** (60 FPS, <5 ms latency) using OpenCV and UDP
+- Used **K-Means clustering** and spline interpolation for procedural game level generation
+
+---
+
+##  Projects
+
+- **Multi-Modal AI Assistant**  
+  Gemini API · RAG · PDF Processing · Tkinter  
+  → Text, image, and document understanding with context-aware QnA
+
+- **Real-time ASL Recognition Gaming Platform**  
+  TensorFlow · Keras · Three.js  
+  → CNN-based gesture recognition (92% accuracy, <100 ms latency)
+
+- **AI Music Generation**  
+  LSTM · TensorFlow  
+  → Sequence-to-sequence model generating coherent 16-bar compositions
+
+---
+
+##  Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** FastAPI, Flask, React, OpenCV  
+**AI/ML:** LLMs, RAG, TensorFlow, Keras, Scikit-learn  
+**Tools:** Git, GitHub, VS Code, Jupyter, Streamlit  
+
+---
+
+##  Connect
+- **GitHub:** https://github.com/Nishant082  
+- **LinkedIn:** https://linkedin.com/in/nishant-r-218351254  
+- **Email:** nishantrajaram7@gmail.com
 
 ---
 
@@ -76,7 +112,3 @@ I enjoy building systems that **reduce manual effort**, scale cleanly, and actua
 </div>
 
 ---
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=600&height=70&duration=3000&lines=Thanks+for+visiting!+✌️;" />
-</h3>
