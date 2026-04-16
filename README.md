@@ -21,9 +21,12 @@ SDE | GenAI & ML Engineering · Python · LLMs · Real-Time Systems
 ---
 
 ##  Experience
-
+### **Peterson Technology Partners** · Jr. Python Developer
+*February 2026 – Present*
+- Working on building conversational AI models and AI flows.
+  
 ### **Xarpie Labs** · SDE — GenAI & ML Engineering  
-*July 2025 – Present*
+*July 2025 – February 2026*
 - Built an AI-powered HR profiling system processing **36+ candidate signals** using GPT-4, Flask, and SQLite
 - Integrated GitHub REST APIs to analyze **100+ repositories per candidate** for code quality, CI/CD signals, and language distribution
 - Developed an academic vetting platform with **role-based access**, OTP & OAuth auth, document verification, and real-time dashboards
